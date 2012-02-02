@@ -48,6 +48,9 @@ Please send us demos to highlight projects using AIRKinect and provide feedback 
 
 AIRKinect-Extended Updates:
 
+---- February 2, 2012: Version 1.0.1:
+	1) Updated with Player MAsking features
+
 ---- December 22, 2011: Version 1.0:
 	1) AIRKinectManager for managing Skeleton Add/Remove/Update along with Camera Updates.
 	2) 3D Regions
