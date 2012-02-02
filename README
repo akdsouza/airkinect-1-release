@@ -69,6 +69,13 @@ AIRKinect-Extended Updates:
 
 AIRKinect Updates:
 ========
+---- February 2, 2012: Version 1.7:
+	1) Updated to Official MS SDK Version 1.0
+
+
+---- February 2, 2012: Version 1.6.1:
+	1) Players Masking features added to core
+
 ---- December 22, 2011: Version 1.6:
 
 	1) Skeleton to RGB & Depth Space Translation (windows only)
